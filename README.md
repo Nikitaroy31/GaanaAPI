@@ -65,7 +65,7 @@ http://127.0.0.1:5000/result/?url=<insert-gaana-link-here>&lyrics=true
 
 
 ### You can fork the repo and deploy on VPS or deploy it on Heroku :)  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/gaanaapi/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nikitaroy31/GaanaAPI/tree/patch-1)
 **Note:** Heroku gives US/Europe servers which won't be able to fetch all songs flawlessly. Use any Indian VPS for fetching accurate results.
 ## Made using this API :heart:
 ##### [@songdl_bot](https://t.me/songdl_bot) - Song Downloader Bot on Telegram
